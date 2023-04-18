@@ -1,0 +1,7 @@
+PyTelegramBotApi
+requests
+aspose-words
+beautifulsoup4
+lxml
+asyncio
+aiohttp
